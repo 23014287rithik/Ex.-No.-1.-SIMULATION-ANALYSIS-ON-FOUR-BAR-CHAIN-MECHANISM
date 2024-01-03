@@ -53,9 +53,10 @@
 
 
 ## Output:
+![Screenshot 2024-01-03 120958](https://github.com/23014287rithik/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150985832/a6b4db3c-3070-439d-9803-681277dcaae1)
 
 
-### Name:
+### Name:rithik v 
 ### Register Number: 
 
 ## RESULT:
